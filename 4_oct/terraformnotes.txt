@@ -1,4 +1,4 @@
-> terraform init
+> terraform init 
 > terraform plan
-> terraform apply
+> terraform apply or terraform init and terraform apply --auto-approve
 > terraform destroy
